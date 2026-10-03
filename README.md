@@ -402,7 +402,7 @@ This creates `OUTPUT.txt` containing:
 
 **Sample Output:**
 
-[![Example 1](assets/S1.png)](assets/S1.png) [![Example 2](assets/S2.png)](assets/S2.png) [![Example 3](assets/S3.png)](assets/S3.png)
+[![Example 1](assets/S6.png)](assets/S6.png)
 
 The OUTPUT.txt file demonstrates all functions working correctly with various test cases and edge conditions.
 
@@ -412,20 +412,20 @@ The OUTPUT.txt file demonstrates all functions working correctly with various te
 
 **Complete Actions Dashboard:**
 
-[![Actions Dashboard](assets/G8.png)](assets/G8.png)
+[![Actions Dashboard](assetsS5/.png)](assets/S5.png)
 *Both pytest and unittest workflows running automatically on every push*
 
 **Pytest Workflow Success:**
 
-[![Pytest Workflow Runs](assets/G3.png)](assets/G3.png)
+[![Pytest Workflow Runs](assets/S3.png)](assets/S3.png)
 
-[![Pytest Workflow Details](assets/G6.png)](assets/G6.png)
+[![Pytest Workflow Details](assets/S2.png)](assets/S2.png)
 
 **Unittest Workflow Success:**
 
-[![Unittest Workflow Run](assets/G1.png)](assets/G1.png)
+[![Unittest Workflow Run](assets/S4.png)](assets/S4.png)
 
-[![Unittest Workflow Details](assets/G4.png)](assets/G4.png)
+[![Unittest Workflow Details](assets/S1.png)](assets/S1.png)
 
 ---
 
