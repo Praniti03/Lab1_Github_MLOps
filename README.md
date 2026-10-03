@@ -412,7 +412,7 @@ The OUTPUT.txt file demonstrates all functions working correctly with various te
 
 **Complete Actions Dashboard:**
 
-[![Actions Dashboard](assetsS5/.png)](assets/S5.png)
+[![Actions Dashboard](assets/S5.png)](assets/S5.png)
 *Both pytest and unittest workflows running automatically on every push*
 
 **Pytest Workflow Success:**
