@@ -363,7 +363,7 @@ Two workflow files are created under the `.github/workflows` directory:
 This workflow:
 
 - Triggers on push to main branch
-- Sets up Python 3.8 environment
+- Sets up Python 3.11 environment
 - Installs dependencies from requirements.txt
 - Runs pytest with coverage reporting
 - Generates a code coverage report
@@ -375,7 +375,7 @@ This workflow:
 This workflow:
 
 - Triggers on push to main branch
-- Sets up Python 3.8 environment
+- Sets up Python 3.11 environment
 - Installs dependencies
 - Runs unittest test suite
 - Notifies on success/failure
@@ -462,7 +462,7 @@ python generate_output.py
 
 ## Technologies Used
 
-- Python 3.8+
+- Python 3.11+
 - Pytest (testing framework)
 - pytest-cov (coverage analysis)
 - Unittest (Python's built-in testing)
